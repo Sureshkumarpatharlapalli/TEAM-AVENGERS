@@ -1,0 +1,8 @@
+project_id "yifagiigrzcmsilvydqu"
+[functions.language-coach]
+verify_jwt= false
+[functions.text-to-speech]
+verify_jwt false
+[functions.speech-to-text]
+10
+verify_jwt = false
